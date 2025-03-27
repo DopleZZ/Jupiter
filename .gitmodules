@@ -1,0 +1,3 @@
+[submodule "Jupiter_web"]
+	path = Jupiter_web
+	url = https://github.com/DopleZZ/Jupiter_web.git
