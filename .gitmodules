@@ -1,3 +1,4 @@
-[submodule "Jupiter_web"]
-	path = Jupiter_web
+[submodule "web"]
+	path = web
 	url = https://github.com/DopleZZ/Jupiter_web.git
+	branch = main
